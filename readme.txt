@@ -1,7 +1,7 @@
 hello nihoa
 tiantian
 ÄãºÃ
-hellow word
+hellow
 
 tianna
 
