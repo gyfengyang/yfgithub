@@ -6,3 +6,5 @@ hellow word
 tianna
 
 hello yangfeng
+
+Creating a new branch is quick
